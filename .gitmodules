@@ -1,0 +1,3 @@
+[submodule "CADD"]
+	path = CADD
+	url = https://github.com/BOINC/CADD.git
