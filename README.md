@@ -27,7 +27,7 @@ Before running the command, you need to start `cmd` as an administrator, then na
 python.exe raccoon2_boinc_installer.py install
 ```
 
-where `MGLTOOLS_FOLDER` is the folder where MGLTools is installed and `PATH_TO_PLUGIN` is the path to the this folder.
+where `MGLTOOLS_FOLDER` is the folder where MGLTools is installed.
 
 ## Uninstallation
 
@@ -43,9 +43,9 @@ Then you can use the following command:
 
 ### Windows:
 Before running the command, you need to start `cmd` as an administrator, then navigate to the `MGLTOOLS_FOLDER` folder.
-    
+
 ```bash
 python.exe raccoon2_boinc_installer.py uninstall
 ```
 
-where `MGLTOOLS_FOLDER` is the folder where MGLTools is installed and `PATH_TO_PLUGIN` is the path to the this folder.
+where `MGLTOOLS_FOLDER` is the folder where MGLTools is installed.
