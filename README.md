@@ -4,7 +4,7 @@ This plugin extends the functionality of [Raccoon2](https://autodock.scripps.edu
 
 It allows to run [Autodock Vina](https://vina.scripps.edu/) tasks on [BOINC Central](https://boinc.berkeley.edu/central/) infrastructure.
 
-IMPORTANT: To submit tasks to [BOINC Central](https://boinc.berkeley.edu/central/), please [contact](https://boinc.berkeley.edu/anderson/) us.
+IMPORTANT: To submit tasks to [BOINC Central](https://boinc.berkeley.edu/central/), please [contact](https://boinc.berkeley.edu/central/apply.php) us.
 
 ![Raccoon2 BOINC Plugin](plugin.png)
 
