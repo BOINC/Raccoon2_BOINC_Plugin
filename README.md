@@ -10,7 +10,7 @@ IMPORTANT: To submit tasks to [BOINC Central](https://boinc.berkeley.edu/central
 
 ## Installation
 
-To install the plugin, you need to have Raccoon2 1.5.7 installed (could be taken from [here](https://ccsb.scripps.edu/mgltools/downloads/)) and plugin downloaded from the [releases](https://github.com/BOINC/Raccoon2_BOINC_Plugin/releases/tag/v1.0.2)
+To install the plugin, you need to have Raccoon2 1.5.7 installed (could be taken from [here](https://ccsb.scripps.edu/mgltools/downloads/)) and plugin downloaded from the [releases](https://github.com/BOINC/Raccoon2_BOINC_Plugin/releases/tag/v1.0.4)
 
 Then, navigate to the `MGLTOOLS_FOLDER` folder, and put `raccoon2_boinc_installer.py` there,
 where `MGLTOOLS_FOLDER` is the folder where MGLTools is installed.
